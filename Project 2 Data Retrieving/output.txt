@@ -1,0 +1,61 @@
+Name of URL: http://img2.78dm.net/acg/cache/uploads/2012/04/e24f9e24cf7e8036cf3d92aee465818c_0x0.jpg:
+Content Type: image/jpeg
+Content Length: 263481
+Last Modified: Tue Jun 26 13:40:11 EDT 2012
+Expiration: 0
+Content Encoding: null
+
+
+Name of URL: http://img2.78dm.net/acg/cache/uploads/2012/04/a8e11f439ba62b40906768e563ec3f06_0x0.jpg:
+Content Type: image/jpeg
+Content Length: 263711
+Last Modified: Fri Jun 29 08:20:48 EDT 2012
+Expiration: 0
+Content Encoding: null
+
+
+Name of URL: http://stackoverflow.com/questions/15308569/printwriter-not-printing-texts-to-txt-file:
+Content Type: text/html; charset=utf-8
+Content Length: 90582
+Last Modified: Sat Oct 08 04:33:27 EDT 2016
+Expiration: 0
+Content Encoding: null
+
+
+Name of URL: https://home.cunyfirst.cuny.edu/oam/Portal_Login1.html:
+Content Type: text/html
+Content Length: 15231
+Last Modified: Wed Jan 21 14:16:46 EST 2015
+Expiration: 0
+Content Encoding: null
+
+
+Name of URL: https://home.cunyfirst.cuny.edu/oam/Portal_Login1.html:
+Content Type: text/html
+Content Length: 15231
+Last Modified: Wed Jan 21 14:16:46 EST 2015
+Expiration: 0
+Content Encoding: null
+
+
+Name of URL: https://home.cunyfirst.cuny.edu/oam/Portal_Login1.html:
+Content Type: text/html
+Content Length: 15231
+Last Modified: Wed Jan 21 14:16:46 EST 2015
+Expiration: 0
+Content Encoding: null
+
+
+Name of JPEG: OutputImage1.jpeg
+
+Name of JPEG: OutputImage2.jpeg
+
+Name of HTML: saved url 1.html
+Number of Lines: 339
+
+Name of HTML: saved url 2.html
+Number of Lines: 339
+
+Name of HTML: saved url 3.html
+Number of Lines: 339
+

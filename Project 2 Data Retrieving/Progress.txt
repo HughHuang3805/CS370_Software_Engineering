@@ -1,0 +1,8 @@
+11/6/2016 
+This week, I have included the few classes needed for reading the info of an url, image of an url and so on
+
+11/13/2016
+Is able to process html, jpeg urls by saving files and outputing to files.
+
+11/20/2016
+Final version, met all requirements
