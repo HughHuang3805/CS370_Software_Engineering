@@ -21,7 +21,7 @@ import javax.swing.JOptionPane;
 public class DataBase {
 
 	String driver = "com.mysql.jdbc.Driver";
-	String url1 = "jdbc:mysql://localhost:3306/";
+	String url1 = "jdbc:mysql://localhost:3305/";
 	String url2 = "?autoReconnect=true&useSSL=false";
 	String databaseName;
 	String tableName;
@@ -48,8 +48,8 @@ public class DataBase {
 	}
 
 	/*creates schema in client database, use is not recommended*/
-	public void createSchema() throws SQLException{
-		PreparedStatement createStatement = conn.prepareStatement("create schema grocerystore");
+	public void createDatabase() throws SQLException{
+		PreparedStatement createStatement = conn.prepareStatement("create database store");
 		createStatement.executeUpdate();
 		System.out.println("Schema created.");
 	}

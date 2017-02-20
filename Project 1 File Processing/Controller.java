@@ -42,6 +42,7 @@ public class Controller implements ActionListener{
 					myGui.menu1.setEnabled(true);
 					myGui.getRootPane().setDefaultButton(null);
 					myGui.panel = new JPanel();
+					myDatabase.createDatabase();
 					//change to a new field
 				}
 			} catch (Exception e1) {
