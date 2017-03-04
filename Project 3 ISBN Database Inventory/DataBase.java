@@ -168,7 +168,7 @@ public class DataBase {
 		Date today2 = Calendar.getInstance().getTime();
 		String date_Last_Modified = df2.format(today2);
 		
-		insertStatement.setString(1, isbn);
+		insertStatement.setString(1, isbn);//insert each data item
 		insertStatement.setString(2, title);
 		insertStatement.setInt(3, quantity);
 		insertStatement.setString(4, author_FirstName);

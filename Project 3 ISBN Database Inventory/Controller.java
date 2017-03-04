@@ -93,7 +93,7 @@ public class Controller implements ActionListener{
 			break;
 			
 		case "Insert":
-			myGui.panel.setVisible(false);
+			myGui.panel.setVisible(false); //insert case
 			myGui.repaint();
 			myTable = myGui.setInsertPanel(this);
 			myGui.panel.setVisible(true);
